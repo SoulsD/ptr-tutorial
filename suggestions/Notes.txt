@@ -1,0 +1,10 @@
+======================================
+Vs code
+======================================
+
+Add extensions.json file (recomended extensions to follow the course)
+
+======================================
+Tutorial structure
+======================================
+Add number before directory name to preserve order
