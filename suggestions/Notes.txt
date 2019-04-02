@@ -4,7 +4,19 @@ Vs code
 
 Add extensions.json file (recomended extensions to follow the course)
 
+
 ======================================
 Tutorial structure
 ======================================
+
 Add number before directory name to preserve order
+Make basics courses more *personnal* with maybe small exercises (10 min ?) at the end of a chapter,
+    to assess proper understanding of the viewed knowledge
+Add link to the next course at the end of one to help navigation
+
+======================================
+Other
+======================================
+
+Use a CMS to have a web version of the Tutorial (e.g. daux.io)
+    -> user friendly / easy navigation
